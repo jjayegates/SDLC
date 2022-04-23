@@ -1,0 +1,9 @@
+# SDLC
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+-  In order to interpret user needs and implement them into a program, it is imperative to meet with the user and get a rundown of every feature they would like.  After you have a list of everything, then it is time to organize the feature requests.  This is where user stories come into play.  User stories are an organizational tool that will assist us in seperating the feature requests into individual tastks, ranking the tasks in level of importance, and defining parameters to identify a successful completion of the task.  
+
+How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+- Before when I would develop programs, I would mamke a rough draft of the program and then start, figuring out the details as I went along.  After having learned the agile development process in detail, I hope to incorporate the usage of user stories and of drawing out testing parameters in my future development work.  
+
+What does it mean to be a good team member in software development?
+-  Being a good team member in software development means communicating my progress and difficulties with the team.  The former is important because this keeps everyone appraised on the current state of the entire projet, and also can serve as motivation/encouragement in the sense that no one wants to feel as though they are the only ones doing any work.  The latter is important because it gives the rest of the team a chance to help with any issues you are facing that they may have expertise in.  Furhter on this point, being a good team member also means extending my expertise in the form of assistance if I realize that a team member is having trouble with an area i am knowledgeable in.  
